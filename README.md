@@ -54,6 +54,9 @@
 | ✅ [Angular Todo List](https://github.com/Karansaini260/Angular.todo-list-kd) | Feature-rich to-do app with categories & filters | Angular · TypeScript · Bootstrap |
 | 😀 [Face Detection App](https://github.com/Karansaini260/Face_Detection_App) | Real-time face detection with OpenCV | Python · OpenCV |
 | 💬 [Gemini AI App](https://github.com/Karansaini260/GeminiAI_) | Streamlit chat app powered by Google Gemini | Python · Streamlit · Gemini |
+| 💬 [Gemini AI App](https://github.com/Karansaini260/Gemini-AI-App) | Streamlit chat app powered by Google Gemini | Python · Streamlit · Gemini |
+| 🦵 [RSNA Knee Detection](https://github.com/Karansaini260/RSNA-Knee-Abnormality-Detection) | Kaggle: detect 12 knee abnormalities from MRI + radiology reports | PyTorch · pydicom · Multimodal |
+| 🍄 [Mario Python Game](https://github.com/Karansaini260/Mario-Python-Game) | Tile-map platformer with physics & demo AI | Python · pygame |
 
 ## 📊 GitHub Stats
 
@@ -63,6 +66,19 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Karansaini260&theme=github-dark&hide_border=true" alt="GitHub streak" height="180"/>
 </p>
+
+
+## 🤝 Open to Collaboration
+
+My repositories are **open source (MIT)** with contribution guides, issue
+templates and `good first issue` labels — **pull requests are welcome!**
+I'm especially interested in collaborating on:
+
+- 📈 Trading & finance ML
+- 🩺 Medical imaging / computer vision
+- 🧠 Generative AI & LLM apps
+
+*If you'd like to co-develop any project, open an issue or reach out!*
 
 ## 📬 Let's Connect
 
